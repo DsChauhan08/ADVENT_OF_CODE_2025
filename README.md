@@ -49,4 +49,4 @@ python solution.py
 
 ## ⚠️ Disclaimer
 
-Please do not copy these solutions directly. The joy of Advent of Code is solving the puzzles yourself! Use this repository as a reference or to compare approaches after you've solved the puzzles on your own
+Please do not copy these solutions directly. The joy of Advent of Code is solving the puzzles yourself! Use this repository as a reference or to compare approaches after you've solved the puzzles on your own.
